@@ -1,17 +1,25 @@
 {
   "name": "chaibackend",
   "version": "1.0.0",
-  "description": "a basic app to deploy",
+  "description": "a  basic app to deploy",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshu1125-stack/chaibackend1.git"
+  },
   "keywords": [
-    "chai",
-    "node"
+    "node",
+    "chai"
   ],
-  "author": "priyanshu",
+  "author": "priyanshu kumar",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshu1125-stack/chaibackend1/issues"
+  },
+  "homepage": "https://github.com/priyanshu1125-stack/chaibackend1#readme",
   "dependencies": {
     "dotenv": "^16.5.0",
     "express": "^5.1.0"
